@@ -8,7 +8,7 @@
 
 # environment variables
 .env
-.env*.local
+.env.example
 
 # build output
 /dist
